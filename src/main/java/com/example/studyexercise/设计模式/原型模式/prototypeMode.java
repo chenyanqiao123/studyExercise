@@ -7,7 +7,7 @@
 package com.example.studyexercise.设计模式.原型模式;
 
 /**
- * （原型模式）
+ * （原型模式）1111
  * 克隆工厂
  * @author chenyanqiao
  * @version 2022年09月21日  14:49
